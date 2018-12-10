@@ -1,5 +1,3 @@
-
-
 class InvalidColumnError(Exception):
     '''Error when trying to add a piece to the column thatis already filled.
     '''
